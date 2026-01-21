@@ -1,0 +1,40 @@
+# ===============================
+# 1. DATASET (KHÔNG BAO GIỜ PUSH)
+# ===============================
+data/
+train/
+test/
+processed.zip
+*.csv
+
+# ===============================
+# 2. MODEL WEIGHTS
+# ===============================
+#models/pytorch_checkpoints/*.pth
+
+# ===============================
+# 3. VIRTUAL ENV
+# ===============================
+.venv/
+venv/
+env/
+
+# ===============================
+# 4. CACHE / SYSTEM
+# ===============================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# ===============================
+# 5. NOTEBOOK CHECKPOINTS
+# ===============================
+notebooks/.ipynb_checkpoints/
+
+# ===============================
+# 6. SECRETS
+# ===============================
+.env
+kaggle.json

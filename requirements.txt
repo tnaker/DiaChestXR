@@ -1,0 +1,15 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+torch
+torchvision
+torchaudio
+pillow
+jupyterlab
+streamlit
+opencv-python-headless
+grad-cam
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
